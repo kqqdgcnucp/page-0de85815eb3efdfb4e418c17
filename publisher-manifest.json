@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "71420416f41659bea90c167a",
+  "owner": "kqqdgcnucp",
+  "repo": "page-0de85815eb3efdfb4e418c17",
+  "title": "星宝",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0de85815eb3efdfb4e418c17",
+      "a": "星宝",
+      "b": "2027官方最新地址导航",
+      "entity": "星宝",
+      "brand": "星宝",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "45ba7b5b474465d8512e645753a1713e8c9f431b22ded4cdee59d901e14bd1fa",
+      "content": {
+        "primary_entity": "星宝",
+        "keyword1": "星宝",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应的客户端，导入订阅后即可使用。不同平台的客户端界面与更新方式存在差异。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据日常流量和设备数量挑选套餐，再按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连上星宝",
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅，覆盖从每月 100GB 到 1000GB 流量、3 台到 20 台设备同时在线的使用场景。旗舰版支持全节点流媒体解锁与 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与企业定制路由。用户可依据设备数量与流量需求选择套餐，并按对应客户端文档完成订阅导入。",
+          "AI_FEATURES_INTRO": "从流量大小、设备台数与订阅周期三个角度对比套餐，再决定合适的档位。",
+          "AI_FEATURES_TITLE": "套餐、设备与周期怎么选",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度浏览与短期使用；旗舰版每月 300GB、5 台设备，覆盖流媒体与游戏场景。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，并提供 VIP 专属高带宽节点，适合小团队共享或高并发需求。",
+          "AI_FEATURE_TEXT_3": "三档套餐都支持按月或按年计费，年付方式价格更划算，适合确定长期使用的用户。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "团队与高带宽",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "先确认使用需求，再对照套餐限制，最后完成客户端订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "星宝提供基础版、旗舰版与团队版三档海外加速订阅，流量从每月 100GB 到 1000GB，支持 3 台到 20 台设备同时在线。旗舰版与团队版加入流媒体解锁、游戏加速与高带宽节点，用户可按设备数量与使用周期灵活选择。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备加速",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "3 台至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版支持流媒体与游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别约 ¥150、¥350、¥850。按流量与设备数挑选即可。",
+          "AI_PLANS_TITLE": "对比三档订阅套餐",
+          "AI_STEP_TEXT_1": "先明确主要用途与日常流量，确认是否需要流媒体解锁或游戏加速，再对应档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度与计费周期限制，核对是否满足自己的使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，导入订阅信息，依照客户端文档说明完成连接配置。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "核对套餐适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "选对套餐，畅连海外",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合；如果还需平板或更多终端，可选旗舰版 5 台设备档位。",
+          "AI_FAQ_ANSWER_2": "订阅地址通常在购买后由账户页面提供，将地址导入所选客户端即可。不同客户端导入入口不同，可参考对应客户端文档。",
+          "AI_FAQ_ANSWER_3": "月付适合短期使用，年付更划算。基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年，可按实际需要选择周期。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版面向更高流量与更多设备场景。旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备，并支持企业定制路由。",
+          "AI_FAQ_ANSWER_5": "在订阅配置中填入星宝提供的订阅地址，保存后更新节点列表，再选择线路连接即可。路由器端建议先在电脑上确认订阅可用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "如何获取星宝订阅地址？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版主要差别在哪里？",
+          "AI_FAQ_QUESTION_5": "在路由器上怎么导入订阅？",
+          "AI_FAQ_TITLE": "订阅与套餐常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sanjiaofc.cn",
+    "host": "sanjiaofc.cn"
+  },
+  "file_hashes": {
+    "index.html": "c0f7c03e1003df1c853211fc86ab055c6a3fc75ae3aeabcdcebb1d1eeb2d377b",
+    "sitemap.xml": "e5d10fc9da935e652755860245e8af08e01e13865640ee74a006d1deb56cbeaa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "78d6690d1082a4f6c9099a687635662485974e2ca451cbbc9497a680e9cc3b51",
+    "robots.txt": "970209e7b41de279ec6de012c8a2f02a3e7041f9cead9696ff19d988f7943b12",
+    "675ebaf67416cb47c3b8747f188f0137.txt": "c262b9bc2ae931c8ba478e80af919fca1900c1bf09b137aec59bec6ba3124576"
+  },
+  "revision": "6081d98bb6f5cec58ca9cde55e90af2c1e52856b7d8fbd7908b9eed5a1ab6012"
+}
